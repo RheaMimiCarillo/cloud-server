@@ -2,7 +2,7 @@
 
 Practice deploying a server on AWS using AWS GUI and EB GUI.
 
-## Links:
+## Links
 
-[GUI deployment]()
-[CLI deployment]()
+- [GUI deployment](http://guideploymentpractice-env.eba-hksf3jmm.us-west-2.elasticbeanstalk.com/)
+- [CLI deployment]()

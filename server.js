@@ -9,6 +9,11 @@ app.get('/', (req, res) =>
   res.status(200).send('Oh, it\'s you.');
 })
 
+app.get('/', (req,res) =>
+{
+  res.status(200).send('Oh, what great horror');
+})
+
 // endpoint for testHello.js stuff
 app.get('/hello', (req, res) =>
 {

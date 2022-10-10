@@ -4,11 +4,6 @@ const express = require('express');
 
 const app = express(); // this is our app singleton
 
-app.get('/', (req, res) =>
-{
-  res.status(200).send('Oh, it\'s you.');
-})
-
 app.get('/', (req,res) =>
 {
   res.status(200).send('Oh, what great horror');
